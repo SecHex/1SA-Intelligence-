@@ -4,7 +4,7 @@ Private Telegram/Discord SecBOT. Live Version is on .gg/SecHex
 
 # Features 
 - SMS Verifications
-  - Over 100+ Countrys
+  - Over 100+ Countries
   - Over 150+ Services [Steam, Twitter, Google, Discord...]
   - Instant Verifcation
  
